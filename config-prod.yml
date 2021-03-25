@@ -1,5 +1,5 @@
 config: 
-  info: this is config-prod version = 6
+  info: this is config-prod version = 7
 
 spring:
   datasource:
